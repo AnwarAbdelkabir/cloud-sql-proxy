@@ -13,6 +13,12 @@
 # limitations under the License.
 
 # [START cloud_sql_proxy_k8s_sa]
+
+
+
+# ======> utilisé dans e-toubib
+
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
